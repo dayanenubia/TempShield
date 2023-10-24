@@ -36,6 +36,9 @@
 </p>
   
 - Armazena dados na nuvem Thingspeak e os compartilha no Twitter, além de enviar e-mails via Gmail.
+<p align="center">
+  <img src="https://github.com/dayanenubia/TempShield/blob/main/assets/twwiter.jpeg" width="300" alt="TempShield Logo">
+</p>
 
 - Um aplicativo Android emite notificações com base nos dados da nuvem.
 <p align="center">

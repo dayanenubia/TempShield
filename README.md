@@ -31,5 +31,9 @@
 </p>
 
 - Exibe a temperatura em um visor LCD 16x2 em graus Celsius.
+<p align="center">
+  <img src="https://github.com/dayanenubia/TempShield/blob/main/assets/lcd.jpeg" width="300" alt="TempShield Logo">
+</p>
+  
 - Armazena dados na nuvem Thingspeak e os compartilha no Twitter, além de enviar e-mails via Gmail.
 - Um aplicativo Android emite notificações com base nos dados da nuvem.

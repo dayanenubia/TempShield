@@ -25,7 +25,7 @@
 </p>
   
 - Garante autonomia com baterias recarregáveis do tipo "powerbank".
-- Mede a temperatura das vacinas com um termopar tipo K e amplificador MAX6675. [é um excelente dispositivo capaz de fazer medições de temperaturas entre 0 a incríveis 800°C. juntamente ao Termopar Tipo K, interagindo e os valores obtidos junto a microcontroladores]
+- Mede a temperatura das vacinas com um termopar tipo K e amplificador MAX6675. [é um excelente dispositivo capaz de fazer medições de temperaturas entre 0 a incríveis 800°C.]
 <p align="center">
   <img src="https://github.com/dayanenubia/TempShield/blob/main/assets/max6675.jpeg" width="300" alt="TempShield Logo">
 </p>

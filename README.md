@@ -39,6 +39,10 @@
 <p align="center">
   <img src="https://github.com/dayanenubia/TempShield/blob/main/assets/twwiter.jpeg" width="300" alt="TempShield Logo">
 </p>
+<br>
+<p align="center">
+  <img src="https://github.com/dayanenubia/TempShield/blob/main/assets/gmail..jpeg" width="300" alt="TempShield Logo">
+</p>
 
 - Um aplicativo Android emite notificações com base nos dados da nuvem.
 <p align="center">

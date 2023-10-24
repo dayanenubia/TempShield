@@ -20,6 +20,10 @@
 </h3>
 
 - Utiliza a placa NodeMCU ESP8266 para capturar e processar dados de temperatura. [Uma placa de desenvolvimento baseada no microcontrolador ESP8266,que possui conectividade Wi-Fi integrada.]
+<p align="center">
+  <img src="https://github.com/dayanenubia/TempShield/blob/main/assets/nodemcu.jpeg" width="300" alt="TempShield Logo">
+</p>
+  
 - Garante autonomia com baterias recarregáveis do tipo "powerbank".
 - Mede a temperatura das vacinas com um termopar tipo K e amplificador MAX6675.
 - Exibe a temperatura em um visor LCD 16x2 em graus Celsius.

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/dayanenubia/TempShield/blob/main/assets/logo.jpeg" width="300" alt="TempShield Logo">
+</p>
+
 # TempShield  
 >  *Um protótipo para monitoriamento de refrigereção de vacinas baseado na internet das coisas*
 

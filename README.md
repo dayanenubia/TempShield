@@ -12,7 +12,7 @@
 <p>
   É um protótipo de monitoramento de temperatura que utiliza sensores para acompanhar a temperatura dos refrigeradores de vacinas. Ele é alimentado por baterias recarregáveis, o que o torna independente da eletricidade comum. Os dados coletados são armazenados em uma plataforma de nuvem IoT e podem ser usados para enviar notificações aos responsáveis caso a temperatura saia dos limites corretos.
 </p>
-
+<hr>
 <h3 aling="right" <a name="features"></a> 
      Motivação
 </h3>
@@ -20,7 +20,7 @@
 <p>
   A ideia de criar o protótipo surgiu a partir da leitura de uma notícia no G1 que relatava que mais de 6.000 vacinas contra a COVID-19 perderam sua eficácia após o roubo da fiação de uma UBS no Espírito Santo. Percebemos que se houvesse um monitoramento da temperatura do refrigerador e ele notificasse os responsáveis, seria uma forma de prevenir que esse tipo de ação ocorresse.
 </p>
-
+<hr>
 <h3 aling="right" <a name="requisito"></a>
   🛠 Funcionamento 
 </h3>

@@ -24,8 +24,11 @@
 <h3 aling="right" <a name="requisito"></a>
   🛠 Funcionamento 
 </h3>
+<p>
+  O protótipo de monitoramento de temperatura, funciona da seguinte maneira: utilizando a placa NodeMCU ESP8266 e um sensor de temperatura termopar tipo K conectado a um amplificador MAX6675. O sistema é alimentado por energia elétrica e baterias recarregáveis "powerbank," garantindo sua autonomia. Os dados de temperatura são enviados para a plataforma IoT Thingspeak na nuvem, com integração ao Twitter para publicações automátas e notificações por e-mail via Gmail. Além disso, um aplicativo Android Studio consome os dados na nuvem e emite notificações, e o projeto passou por um período de desenvolvimento de 4 meses.
+</p>
 
-- Utiliza a placa NodeMCU ESP8266 para capturar e processar dados de temperatura. [Uma placa de desenvolvimento baseada no microcontrolador ESP8266,que possui conectividade Wi-Fi integrada.]
+- Placa NodeMCU ESP8266 para capturar e processar dados de temperatura. 
 <p align="center">
   <img src="https://github.com/dayanenubia/TempShield/blob/main/assets/nodemcu.jpeg" width="300" alt="TempShield Logo">
 </p>
@@ -54,7 +57,7 @@
   <img src="https://github.com/dayanenubia/TempShield/blob/main/assets/gmail..jpeg" width="300" alt="TempShield Logo">
 </p>
 
-- Um aplicativo Android emite notificações com base nos dados da nuvem.
+- Aplicativo Android emite notificações com base nos dados da nuvem.
 <p align="center">
   <img src="https://github.com/dayanenubia/TempShield/blob/main/assets/app.jpeg" width="300" alt="TempShield Logo">
 </p>

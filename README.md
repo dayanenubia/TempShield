@@ -18,7 +18,7 @@
 </h3>
 
 <p>
-  A ideia de criar o protótipo surgiu a partir da leitura de uma notícia no G1 que relatava que mais de 6.000 vacinas contra a COVID-19 perderam sua eficácia após o roubo da fiação de uma UBS no Espírito Santo. Percebemos que se houvesse um monitoramento da temperatura do refrigerador e ele notificasse os responsáveis, seria uma forma de prevenir que esse tipo de ação ocorresse.
+  A ideia de criar o protótipo surgiu a partir da leitura de uma notícia no G1 que relatava que mais de 6.000 vacinas contra a COVID-19 perderam sua eficácia após o roubo da fiação de uma UBS no Espírito Santo. Percebemos que se houvesse um monitoramento da temperatura do refrigerador e ele notificasse os responsáveis, seria uma forma de prevenir que esse tipo de ação ocorresse. Para saber mais acesse: https://g1.globo.com/sp/santos-regiao/mais-saude/noticia/mais-de-500-vacinas-estragam-por-falta-de-refrigeracao-apos-furto-em-guaruja-sp.ghtml.
 </p>
 <hr>
 <h3 aling="right" <a name="requisito"></a>
@@ -59,4 +59,11 @@
   <img src="https://github.com/dayanenubia/TempShield/blob/main/assets/app.jpeg" width="300" alt="TempShield Logo">
 </p>
 
-https://www.youtube.com/embed/r7NbZOBGJZ4?si=3Bu-wZ3MjwRPBZsM 
+<hr>
+<h3 aling="right" <a name="requisito"></a>
+  Video
+</h3>
+<p>
+  Assista o video para ver o funcionamento do prototipo: https://www.youtube.com/embed/r7NbZOBGJZ4?si=3Bu-wZ3MjwRPBZsM 
+</p>
+

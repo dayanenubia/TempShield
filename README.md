@@ -10,9 +10,15 @@
 </h3>
 
 <p>
-  O protótipo de monitoramento de temperatura das vacinas utiliza sensores para acompanhar a temperatura das vacinas e é alimentado por baterias recarregáveis, o que o torna independente da eletricidade comum. Os dados   
-  coletados são armazenados em uma plataforma de nuvem IoT, e um aplicativo especial pode enviar notificações aos responsáveis se a temperatura sair dos limites corretos. Isso garante que as vacinas estejam sempre na 
-  temperatura certa, mesmo se houver problemas de energia.
+  É um protótipo de monitoramento de temperatura que utiliza sensores para acompanhar a temperatura dos refrigeradores de vacinas. Ele é alimentado por baterias recarregáveis, o que o torna independente da eletricidade comum. Os dados coletados são armazenados em uma plataforma de nuvem IoT e podem ser usados para enviar notificações aos responsáveis caso a temperatura saia dos limites corretos.
+</p>
+
+<h3 aling="right" <a name="features"></a> 
+     Motivação
+</h3>
+
+<p>
+  A ideia de criar o protótipo surgiu a partir da leitura de uma notícia no G1 que relatava que mais de 6.000 vacinas contra a COVID-19 perderam sua eficácia após o roubo da fiação de uma UBS no Espírito Santo. Percebemos que se houvesse um monitoramento da temperatura do refrigerador e ele notificasse os responsáveis, seria uma forma de prevenir que esse tipo de ação ocorresse.
 </p>
 
 <h3 aling="right" <a name="requisito"></a>

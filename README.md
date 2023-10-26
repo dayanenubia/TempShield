@@ -10,7 +10,7 @@
 </h3>
 
 <p>
-  É um protótipo de monitoramento de temperatura que utiliza sensores para acompanhar a temperatura dos refrigeradores de vacinas. Ele é alimentado por baterias recarregáveis, o que o torna independente da eletricidade comum. Os dados coletados são armazenados em uma plataforma de nuvem IoT e podem ser usados para enviar notificações aos responsáveis caso a temperatura saia dos limites corretos.
+   É um protótipo que permite monitorar e notificar variações de temperatura, juntamente com o aplicativo em desenvolvimento que facilita o monitoramento do sistema de refrigeração através de conexão com serviços de dados em nuvem. Essa solução de baixo custo, com um total de menos de R$120,00, promete evitar o desperdício de vacinas devido a problemas de temperatura no seu armazenamento, potencialmente salvando vidas.
 </p>
 <hr>
 <h3 aling="right" <a name="features"></a> 
